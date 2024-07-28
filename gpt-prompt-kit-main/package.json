@@ -1,0 +1,20 @@
+{
+  "name": "gpt-prompt-kit-main",
+  "version": "1.0.0",
+  "description": "**Get Format DATA(Like JSON) from GPT!** GPTPromptKit is a library that helps developers interact with AI language models more effectively by using prompt engineering techniques. The library offers several techniques that can be used depending on the situation, improving the clarity and accuracy of prompts, and enabling more effective communication with users.",
+  "main": ".eslintrc.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oldwarma/TeaPackage-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oldwarma/TeaPackage-2/issues"
+  },
+  "homepage": "https://github.com/Oldwarma/TeaPackage-2#readme"
+}
